@@ -1,0 +1,54 @@
+/* General body styling */
+body {
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  color: #f0f0f0;
+}
+
+/* Navbar styling */
+.navbar {
+  background: #0f3460;
+  border-bottom: 2px solid #e94560;
+}
+
+/* Offcanvas styling */
+.offcanvas {
+  background: #16213e;
+  color: #f0f0f0;
+  border-left: 2px solid #e94560;
+}
+
+.offcanvas-header {
+  border-bottom: 1px solid #e94560;
+}
+
+.dropdown-menu {
+  background: #0f3460;
+  border: 1px solid #e94560;
+}
+
+/* Card styling */
+.card {
+  background: #1a1a2e;
+  border: 2px solid #e94560;
+  border-radius: 15px;
+}
+
+/* Form input styling */
+.form-control {
+  background: #0f3460;
+  color: #f0f0f0;
+  border: 1px solid #e94560;
+  border-radius: 10px;
+}
+
+/* Button styling */
+.btn {
+  background: #e94560;
+  color: #f0f0f0;
+  border: none;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background: #f05454;
+}
